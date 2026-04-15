@@ -1,0 +1,86 @@
+msgid ""
+msgstr ""
+"Language: zh-CN\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT Version: 2.0\n"
+
+#. STRINGS.NAMES.POCKETWATCH_WEAPON_CHARGED
+msgctxt "STRINGS.NAMES.POCKETWATCH_WEAPON_CHARGED"
+msgid "Charged Alarming Clock"
+msgstr "充能的警钟"
+
+#. STRINGS.NAMES.WATCH_CONTAINER
+msgctxt "STRINGS.NAMES.WATCH_CONTAINER"
+msgid "Watch Box"
+msgstr "怀表盒"
+
+#. STRINGS.RECIPE_DESC.WATCH_CONTAINER
+msgctxt "STRINGS.RECIPE_DESC.WATCH_CONTAINER"
+msgid "It will store the watch very well"
+msgstr "它可以很好地储存怀表"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.WATCH_CONTAINER
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.WATCH_CONTAINER"
+msgid "A container for pocket watches."
+msgstr "怀表的容器。"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.WATCH_CONTAINER
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.WATCH_CONTAINER"
+msgid "It's not flammable, but it holds timepieces."
+msgstr "它不易燃，但装着计时器。"
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WATCH_CONTAINER
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WATCH_CONTAINER"
+msgid "Strong box for tiny clocks!"
+msgstr "装小钟表的结实盒子！"
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.WATCH_CONTAINER
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WATCH_CONTAINER"
+msgid "It echoes with silent ticks."
+msgstr "它回荡着无声的滴答声。"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.WATCH_CONTAINER
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.WATCH_CONTAINER"
+msgid "A storage unit for temporal devices."
+msgstr "时间设备的存储单元。"
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WATCH_CONTAINER
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WATCH_CONTAINER"
+msgid "An organized way to store chronometers."
+msgstr "存储精密计时器的有条理的方式。"
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.WATCH_CONTAINER
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.WATCH_CONTAINER"
+msgid "Good for keepin' watches safe."
+msgstr "好好保管怀表。"
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WATCH_CONTAINER
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WATCH_CONTAINER"
+msgid "A mundane box for mundane timekeepers."
+msgstr "平凡盒子装平凡计时器。"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WATCH_CONTAINER
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WATCH_CONTAINER"
+msgid "A vessel for time-keeping warriors!"
+msgstr "计时战士的容器！"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.WATCH_CONTAINER
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.WATCH_CONTAINER"
+msgid "It's like a little home for watches!"
+msgstr "它像怀表的小家！"
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.WATCH_CONTAINER
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.WATCH_CONTAINER"
+msgid "Could use it to store cooking timers."
+msgstr "可以用来存储烹饪计时器。"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WATCH_CONTAINER
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WATCH_CONTAINER"
+msgid "The box feels... timeless."
+msgstr "这盒子感觉...永恒。"
+
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.WATCH_CONTAINER
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.WATCH_CONTAINER"
+msgid "A precise holder for precise instruments."
+msgstr "精密仪器的精确持有器。"

@@ -38,20 +38,6 @@ server_filter_tags = {}
 priority = 0  --模组优先级0-10 mod 加载的顺序   0最后载入  覆盖大值
 
 configuration_options={ --模组变量配置
-	{
-		name = "LANGUAGE",--modmain脚本里调用变量
-		--hover = "解释",
-		label = translate({en = "language", zh = "语言"}),--游戏里显示的名字
-		options ={	
-					{description = translate({en = "Default", zh = "默认"}), data = translate({en = "EN", zh = "CN", jp = "JP", ru = "RU", vi = "VI"})},
-					{description = "English", data = "EN"},
-					{description = "中文", data = "CN"},
-					{description = "日本語", data = "JP"},
-					{description = "русск", data = "RU"},
-					{description = "Việt nam", data = "VI"},
-				},
-		default = translate({en = "EN", zh = "CN", jp = "JP", ru = "RU", vi = "VI"})
-	},
 }
 
 mod_dependencies = {

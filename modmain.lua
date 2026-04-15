@@ -1,7 +1,6 @@
-local modimport = modimport
-
-modimport("main/assets")
+modimport("main/toolutil")
 modimport("main/strings")
+
 modimport("scripts/features/containers")
 modimport("scripts/features/writeables")
 modimport("scripts/rebalance/wanda")
